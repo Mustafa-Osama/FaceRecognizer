@@ -59,3 +59,7 @@ The pipeline of process:
 - Pass the image as an input to FaceTracker model to detect if there is a face in the image or not.
 - If there is a face in the image, the image will be passed into Siamese model to recognize the person.
 - FaceTracker model will draw bounding box around the face and take the output of Siamese network as the person's name to put it as a text for the box.
+
+https://user-images.githubusercontent.com/113447865/193627771-60e3824c-c3c2-469b-a9a8-71252a425c87.mp4
+
+https://user-images.githubusercontent.com/113447865/193628291-5c230de5-e938-42cf-ad3c-45b011a7a0ec.mp4
